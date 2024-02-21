@@ -1,0 +1,1 @@
+Este fichero es creado en feature tras el rebase con main.
